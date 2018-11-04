@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var person = "Julia"
+    var person2 = "Victoria"
 
     override func viewDidLoad() {
         super.viewDidLoad()
